@@ -34,6 +34,7 @@
 - placed 3rd in sports analytics category
 - scraped, cleaned, modeled data to show what factors were most important in determining likelyhood of a player entering the college transfer portal.
 - [Repo](https://github.com/HaileyHal/HackUSU2025)
+- [Presentation Slides](Hack 2025.pdf)
 - [Tableau Public Viz- Average player gains/losses by College](https://public.tableau.com/app/profile/hailey.hendrickson/viz/HackUSUVizzes/AverageGainsDestination)
 
 ## Music Teacher National Association (MTNA) National Conference
