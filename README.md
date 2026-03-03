@@ -18,12 +18,12 @@
 - [Red Button Case Slides](Red Button Case.pdf)
 
 ## HMA HCA Hurricanes
+- problem, action, solution/result
 - [Repo](https://github.com/HaileyHal/HCA-Python-Project)
 
 ## PyDyTuesday
 - wanted extra python practice, enjoy
 - [Repo](https://github.com/HaileyHal/PyDyTuesday)
-- (link to power bi stuff)
 
 ## Greta Van Fleet Concert Recommendation
 - problem, action, solution/result
