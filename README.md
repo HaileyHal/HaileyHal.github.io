@@ -1,12 +1,13 @@
 # Work Projects
-## Ensign stuff
+## Analytics Solutions Center
 - Designed scalable data pipelines integrating PMS (Mariott, Hilton, Hyatt), payroll, and accounting systems (10+ sources), eliminating manual spreadsheets and cutting reporting lab from weeks to near real time. 
 - Developed a Python-based automation tool at the operational level to connect a CRM and messaging platform, automating hundreds of customizable messages per day for Lawn Doctor. 
 
 ## Energy Strategies
 - Programmed two GUI programs using Python’s tKinter library at the project level to collect CAISO and EIA API data, drastically improving analyst and consultant efficiency from days and hours to minutes. 
 - Pulled, cleaned, and analyzed data in a single spreadsheet tool at the company-wide level, enabling use by any team member regardless of coding experience.
-- code
+- [Repo for CAISO Program](https://github.com/haileyhendrickson/CAISOAPI)
+- [Repo for EIA Program](https://github.com/haileyhendrickson/EIA)
 - [Internship Summary Slides](CAISO API slides.pdf)
   
 # Personal Projects
