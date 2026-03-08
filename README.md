@@ -30,7 +30,8 @@ I'm a data engineer and analyst specializing in **Data Science**, **Machine Lear
 ## Work Experience
 
 ### Analytics Solutions Center
-Designed scalable data pipelines integrating PMS (Marriott, Hilton, Hyatt), payroll, and accounting systems across 10+ sources, eliminating manual spreadsheets and cutting reporting lag from weeks to near real time. Also developed a Python-based CRM automation tool for Lawn Doctor, automating hundreds of customizable messages per day.
+Designed scalable data pipelines integrating PMS (Marriott, Hilton, Hyatt), payroll, and accounting systems across 10+ sources, eliminating manual spreadsheets and cutting reporting lag from weeks to near real time.
+Developed a Python-based CRM automation tool for Lawn Doctor, automating hundreds of customizable messages per day.
 
 ---
 
@@ -48,7 +49,7 @@ Programmed two GUI applications using Python's tkinter library to collect CAISO 
 Designed and executed a conjoint analysis survey to evaluate a new product line for Red Button Vintage Creamery, identifying a potential profit of over $3 per unit within the Logan college student segment.
 
 - **Tech:** Conjoint Analysis, Marketing Analytics
-- [Case Study](https://haileyhal.github.io/hackusu2026) · [Source Code](https://github.com/HaileyHal/HackUSU2026)
+- [Case Study](https://haileyhal.github.io/hackusu2026) · [Source Code](https://github.com/HaileyHal/HackUSU2026) · [Presentation Slides](Red Button Case.pdf)
 
 ---
 
@@ -64,7 +65,7 @@ Designed, conducted, and published a conjoint analysis survey to quantify the qu
 Developed a Python and tkinter program using a flight API to clean healthcare and disaster data, determine required personnel based on hurricane location and severity, identify lowest-cost transportation options, and generate a comprehensive cost estimate.
 
 - **Tech:** Python, tkinter, Flight API, Data Cleaning
-- [Case Study](https://haileyhal.github.io/hma-hca-hurricanes) · [Source Code](https://github.com/HaileyHal/HCA-Python-Project) · [Poster]()
+- [Case Study](https://haileyhal.github.io/hma-hca-hurricanes) · [Source Code](https://github.com/HaileyHal/HCA-Python-Project) · [Poster](HMA Fair Presentation.jpg)
 
 ---
 
