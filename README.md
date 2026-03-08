@@ -1,6 +1,6 @@
- Hi, I'm Hailey Hendrickson
+ Hi, I'm Hailey Hendrickson Johnson
 
-I'm a data engineer and analyst specializing in **Data Science**, **Machine Learning**, and **Marketing Analytics**.
+I'm a data engineer and analyst specializing in visualization, modeling, and automation.
 
 ---
 
@@ -15,13 +15,13 @@ I'm a data engineer and analyst specializing in **Data Science**, **Machine Lear
 
 ## Work Experience
 
-### Analytics Solutions Center
+### Analytics Solutions Center - Analyst
 Designed scalable data pipelines integrating PMS (Marriott, Hilton, Hyatt), payroll, and accounting systems across 10+ sources, eliminating manual spreadsheets and cutting reporting lag from weeks to near real time.
 Developed a Python-based CRM automation tool for Lawn Doctor, automating hundreds of customizable messages per day.
 
 ---
 
-### Energy Strategies
+### Energy Strategies - Analyst Intern
 Programmed two GUI applications using Python's tkinter library to collect CAISO and EIA API data, improving analyst efficiency from days to minutes. Built a single spreadsheet tool enabling use by any team member regardless of coding experience.
 
 - [CAISO Program Repo](https://github.com/haileyhendrickson/CAISOAPI) · [EIA Program Repo](https://github.com/haileyhendrickson/EIA)
