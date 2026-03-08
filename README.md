@@ -13,20 +13,6 @@ I'm a data engineer and analyst specializing in **Data Science**, **Machine Lear
 
 ---
 
-## Featured Projects
-
-| Project | Focus | Status |
-| :--- | :--- | :--- |
-| [**HackUSU 2026**](https://haileyhal.github.io/hackusu2026) | Conjoint Analysis & Marketing Analytics | 1st Place |
-| [**Certification Value Conjoint Analysis**](https://haileyhal.github.io/conjoint-analysis) | Survey Research & Consumer Behavior | Published |
-| [**HMA HCA Hurricanes**](https://haileyhal.github.io/hma-hca-hurricanes) | Python Automation & Disaster Analytics | Closed |
-| [**Greta Van Fleet Concert Recommendation**](https://haileyhal.github.io/greta-van-fleet) | Web Scraping & Tableau | Closed |
-| [**HackUSU 2025**](https://haileyhal.github.io/hackusu2025) | Machine Learning & Sports Analytics | 3rd Place |
-| [**Aggie Investments — AirBNB Market**](https://haileyhal.github.io/aggie-investments) | Market Analysis & Predictive Modeling | Closed |
-| [**PyDyTuesday**](https://haileyhal.github.io/pydytuesday) | Data Cleaning & Exploratory Analysis | Active |
-
----
-
 ## Work Experience
 
 ### Analytics Solutions Center
@@ -40,6 +26,20 @@ Programmed two GUI applications using Python's tkinter library to collect CAISO 
 
 - [CAISO Program Repo](https://github.com/haileyhendrickson/CAISOAPI) · [EIA Program Repo](https://github.com/haileyhendrickson/EIA)
 - [Presentation Slides](CAISO API slides.pdf)
+
+---
+## Featured Projects
+
+| Project | Tech/Tool | Status |
+| :--- | :--- | :--- |
+| [**HackUSU 2026**](https://haileyhal.github.io/hackusu2026) | Conjoint Analysis & Financial Analysis | 1st Place |
+| [**Certification Value Conjoint Analysis**](https://haileyhal.github.io/conjoint-analysis) | Survey Research & Conjoint Analysis | Published |
+| [**Antiques Store Business Insights Report**](https://haileyhal.github.io/antiques-store-report) | SQL | Active |
+| [**HMA HCA Hurricanes**](https://haileyhal.github.io/hma-hca-hurricanes) | Python Automation & Disaster Analytics | Closed |
+| [**Greta Van Fleet Concert Recommendation**](https://haileyhal.github.io/greta-van-fleet) | Tableau & Web Scraping/Python | Closed |
+| [**HackUSU 2025**](https://haileyhal.github.io/hackusu2025) | Python & Modeling(XGBoost) | 3rd Place |
+| [**Aggie Investments — AirBNB Market**](https://haileyhal.github.io/aggie-investments) | Python & Predictive Modeling | Closed |
+| [**PyDyTuesday**](https://haileyhal.github.io/pydytuesday) | Python & Visualization | Active |
 
 ---
 
@@ -58,6 +58,13 @@ Designed, conducted, and published a conjoint analysis survey to quantify the qu
 
 - **Tech:** Survey Design, Conjoint Analysis, Statistical Research
 - [Case Study](https://haileyhal.github.io/conjoint-analysis)
+
+---
+
+### Antiques Store Business Insights Report
+Analyzed multi-table datasets using SQL with multiple types of joins, CTEs, and window functions to answer business questions such as identifying employees earning above-average salaries, ganing insights into sales, orders, and employee training data.
+- **Tech:** SQL
+- [Case Study](https://haileyhal.github.io/antiques-store-report)
 
 ---
 
