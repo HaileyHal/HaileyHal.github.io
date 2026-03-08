@@ -39,7 +39,7 @@ What do college students prefer most? What provides the biggest potential for pr
 ---
 ## Presentation Slides
 <iframe 
-  src="/assets/pdfs/Red Button Case.pdf" 
+  src="Red Button Case.pdf" 
   width="100%" 
   height="600px" 
   style="border: none; border-radius: 8px;">
