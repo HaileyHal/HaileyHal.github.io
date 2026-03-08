@@ -1,7 +1,3 @@
----
-layout: default
-title: Aggie Investments — AirBNB Market | Hailey Hendrickson
----
 
 # Aggie Investments — Nashville AirBNB Market Analysis
 
@@ -29,7 +25,7 @@ Entering a new short-term rental market requires understanding pricing dynamics,
 
 ## Solution
 
-- Collected and cleaned Nashville AirBNB market data
+- Cleaned Nashville AirBNB market data
 - Applied Spearman correlations to identify relationships between listing attributes and performance
 - Conducted T-Tests to compare segment performance
 - Used association rule analysis to uncover listing feature patterns
